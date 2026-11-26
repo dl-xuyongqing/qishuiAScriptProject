@@ -1,3 +1,15 @@
+# IDE and local device settings
+.idea/
+.vscode/settings.json
 .vscode/.ascript-sync.json
 
+# OS generated files
+.DS_Store
+Thumbs.db
 
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
